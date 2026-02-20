@@ -1,0 +1,2 @@
+n_assets,total_cost_usd,total_emissions_kgco2,avg_recycling_eff,total_tokens,avg_latency_s,avg_gas_cost_usd,theta,rho_min,lambda_token,onchain_ratio,use_zkp,knee_score,emission_limit,recycling_min
+1000,3208.817389614408,63322.43483753175,0.759695649357346,58173.89614407609,0.6,0.048,0.6,0.75,6.0,0.2,1.0,0.7223350399602967,68778.32288581578,0.75
