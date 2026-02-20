@@ -163,7 +163,7 @@ def main() -> None:
     n_assets = 1000
 
     # Fixed decision variables (you can later set these to the "knee" Pareto solution)
-    d0 = DecisionVars(theta=0.70, rho_min=0.75, lambda_token=6.0, onchain_ratio=0.60, use_zkp=1)
+    d0 = DecisionVars(theta=0.60, rho_min=0.75, lambda_token=6.0, onchain_ratio=0.20, use_zkp=1)
 
     # Baseline scenario parameters
     base_scenario = {
