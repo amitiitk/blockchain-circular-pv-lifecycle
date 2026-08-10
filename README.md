@@ -92,23 +92,23 @@ The proposed framework aims to:
                                 ▼
                     Data Processing Pipeline
                                 │
-        ┌──────────────┬───────────────┐
-        ▼              ▼               ▼
- Predictive AI   Carbon Accounting   Monitoring
-        │              │               │
-        └──────────────┼───────────────┘
-                       ▼
-              Blockchain Layer
-                       │
-        ┌──────────────┼───────────────┐
-        ▼              ▼               ▼
- Smart Contracts   IPFS Storage   ZKP Module
-                       │
-                       ▼
-            Circular Economy Engine
-                       │
-                       ▼
-          Decision Support Dashboard
+                 ┌──────────────┬───────────────┐
+                 ▼              ▼               ▼
+          Predictive AI   Carbon Accounting   Monitoring
+                 │              │               │
+                 └──────────────┼───────────────┘
+                                ▼
+                         Blockchain Layer
+                                │
+                 ┌──────────────┼───────────────┐
+                 ▼              ▼               ▼
+          Smart Contracts   IPFS Storage   ZKP Module
+                                │
+                                ▼
+                      Circular Economy Engine
+                                │
+                                ▼
+                    Decision Support Dashboard
 ```
 
 ---
@@ -222,43 +222,43 @@ Provides:
 # Research Workflow
 
 ```
-PV System
+          PV System
 
-↓
+              ↓
 
-IoT Data Collection
+     IoT Data Collection
 
-↓
+              ↓
 
-Data Cleaning
+       Data Cleaning
 
-↓
+              ↓
 
-AI Prediction
+       AI Prediction
 
-↓
+              ↓
 
-Blockchain Validation
+     Blockchain Validation
 
-↓
+              ↓
 
-Smart Contract Execution
+   Smart Contract Execution
 
-↓
+              ↓
 
-Carbon Accounting
+     Carbon Accounting
 
-↓
+              ↓
 
-Circular Economy Decisions
+ Circular Economy Decisions
 
-↓
+              ↓
 
-Recycling
+          Recycling
 
-↓
+              ↓
 
-Incentive Distribution
+    Incentive Distribution
 ```
 
 ---
@@ -359,10 +359,6 @@ doi={10.1016/j.ijpe.2026.110106}
 # Author
 
 **Dr. Amit Vishwakarma**
-
-Assistant Professor
-
-Indian Institute of Management Raipur
 
 Research Areas
 
